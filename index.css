@@ -1,0 +1,174 @@
+.header1{
+    justify-content: right;
+}
+.back{
+    background-image: url("img/infinite-loop-01.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.loop1{
+    color: white;
+    text-align: center;
+    padding: 70px 0px;
+    padding-top: 150px;
+}
+
+.arrow-button {
+    background-color: #5a96c7;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 66px;
+    width: 100px;
+}
+.arrow-button i {
+    color: white;
+    font-size: 30px;
+}
+.cn1{
+    padding-top: 50px;
+}
+.cn2{
+    padding-top: 65px;
+}
+
+.para{
+    padding-top: 20px;
+    text-align: justify;
+    color:  #9a94a1;
+}
+.anchor1{
+    color: white;
+    text-decoration: none;
+    background-color: #3e75a1;
+    font-size: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.testing{
+    background-image: url("img/infinite-loop-02.jpg");
+    padding-top: 120px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.testers{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.para2{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: rgb(26, 16, 16);
+    border: none;
+    margin: 1px 5px;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+    
+  }
+  
+  .carousel-indicators [data-bs-target].active {
+    background-color: rgb(187, 126, 126);
+    opacity: 1;
+  }
+.cr{
+    top: 98.6% !important;
+}
+
+.cr1{
+    top: 100% !important;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 480px) {
+    .testing{
+        background-image: url("img/infinite-loop-02.jpg");
+        padding-top: 30px;
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
+}
+.para3{
+    color: #3e75a1;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.gallery1{
+    padding-top: 40px;
+    color: #3e75a1;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.footer{
+    background-image: url("img/infinite-loop-03.jpg");
+    margin-top: 60px;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.contact8{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.para5{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.input1{
+    background: transparent;
+    border: 2px solid white;
+    width: 80%;
+    height: 8vh;
+}
+.input1::placeholder {
+    color: white; /* Change the color of the placeholder */
+    opacity: 1; /* Ensure full opacity for modern browsers */
+}
+.input2{
+    background: transparent;
+    border: 2px solid white;
+    width: 80%;
+    height: 8vh;
+}
+.input2::placeholder {
+    color: white; /* Change the color of the placeholder */
+    opacity: 1; /* Ensure full opacity for modern browsers */
+}
+.input3{
+    background: transparent;
+    border: 2px solid white;
+    height: 200px;
+    width: 80%;
+}
+.input3::placeholder {
+    color: white; /* Change the color of the placeholder */
+    opacity: 1; /* Ensure full opacity for modern browsers */
+}
+.spn1{
+    font-size: 1.5em;
+}
